@@ -1,0 +1,2 @@
+# Error type: Parser. Leading 0 results in two INT literals
+00 + 1;

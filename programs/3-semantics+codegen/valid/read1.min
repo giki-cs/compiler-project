@@ -1,0 +1,3 @@
+var a = True;
+read(a);
+print(a);
